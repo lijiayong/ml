@@ -1,4 +1,7 @@
 # ml
+## Tasks
+### Get it to run
+
 ## Wavenet references
 - [buriburisuri/speech-to-text-wavenet: Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow](https://github.com/buriburisuri/speech-to-text-wavenet): sugartensor
 - [tomlepaine/fast-wavenet: Efficient implementation of Wavenet generation.](https://github.com/tomlepaine/fast-wavenet): mostly concerned with efficiency
